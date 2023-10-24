@@ -1,2 +1,0 @@
-# PowerKIT
-PowerKIT TOOLKIT

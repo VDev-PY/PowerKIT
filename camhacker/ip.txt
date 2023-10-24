@@ -1,0 +1,40 @@
+IP                   : 31.94.15.0
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Grantham, United Kingdom, Europe
+GeoLocation(lat, lon): 52.8914371, -0.5775549
+Currency             : British Pound Sterling
+IP                   : 34.243.155.106
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : Service;
+Browser              : Unknown Browser
+Location             : Dublin, Ireland, Europe
+GeoLocation(lat, lon): 53.3165322, -6.3425318
+Currency             : Euro
+IP                   : 34.245.57.164
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : Service;
+Browser              : Unknown Browser
+Location             : Dublin, Ireland, Europe
+GeoLocation(lat, lon): 53.3165322, -6.3425318
+Currency             : Euro
+IP                   : 31.94.12.175
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Great Yarmouth, United Kingdom, Europe
+GeoLocation(lat, lon): 52.6486469, 1.724422
+Currency             : British Pound Sterling
+IP                   : 31.94.12.175
+IP Type              : IPv4
+User OS              : Windows 10
+Version              : 10.0;
+Browser              : Chrome
+Location             : Great Yarmouth, United Kingdom, Europe
+GeoLocation(lat, lon): 52.6486469, 1.724422
+Currency             : British Pound Sterling
